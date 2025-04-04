@@ -1,5 +1,20 @@
 ## 🌶PG节奏熊猫：接口
 
+# 直播来源于：https://github.com/CCSH/IPTV
+## 写代码不易有能力都（请关注、点赞、打赏作者）😺
+## Live直播源更新频率(北京时间)
+|直播源|黑白名单|
+| ---- | ---- |
+|每日4点|每周五0点|
+
+## 直播源
+||完整|精简|其他|
+| ---- | ---- | ---- | ---- |
+|txt|[live.txt](https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.txt)|[live_lite.txt](https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live_lite.txt)|[other.txt](https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/others.txt)
+|m3u|[live.m3u](https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.m3u)|[live_lite.m3u](https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live_lite.m3u)||
+
+
+
 在线MD5文件哈希计算工具
 https://tool.hiofd.com/file-md5-online/
 

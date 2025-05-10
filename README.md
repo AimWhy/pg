@@ -1,9 +1,46 @@
-## 🌶PG节奏熊猫：接口
+<div align="center">
+  <img src="https://private-user-images.githubusercontent.com/107459091/337882265-7520d9d9-e4ba-472a-8a73-21fd5ad693e5.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU4MzM4ODQsIm5iZiI6MTc0NTgzMzU4NCwicGF0aCI6Ii8xMDc0NTkwOTEvMzM3ODgyMjY1LTc1MjBkOWQ5LWU0YmEtNDcyYS04YTczLTIxZmQ1YWQ2OTNlNS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyOFQwOTQ2MjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNzgzMzdiYmQ2NTdjOWRkMmU2NDg4ZmZhZjM3OWRlOThkM2FmY2NhNGM0NmI4M2Q3ODkwNmZmNzRmN2RkZTY0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.UDbZ1GSKfeB5T0QSbOoO_aRTVmTmX0sDNvZOPfkq-h8" alt="logo"/>
+  <h1 align="center">Welcome</h1>
+</div>
+
+<div align="center">🌶PG节奏熊猫：接口</div>
+<br>
+<p align="center">
+  <a href="https://github.com/alantang1977/pg/releases">
+    <img src="https://img.shields.io/github/v/release/alantang1977/pg" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-%20%3D%203.13-47c219" />
+  </a>
+  <a href="https://github.com/alantang1977/pg/releases">
+    <img src="https://img.shields.io/github/downloads/alantang1977/pg/total" />
+  </a>
+  <a href="https://github.com/alantang1977/pg">
+    <img src="https://img.shields.io/github/stars/alantang1977/pg" />
+  </a>
+  <a href="https://github.com/alantang1977/pg/fork">
+    <img src="https://img.shields.io/github/forks/alantang1977/pg" />
+  </a>
+</p>
+
+
+# 直播来源于：https://github.com/CCSH/IPTV
+## 写代码不易有能力都（请关注、点赞、打赏作者）😺
+## Live直播源更新频率(北京时间)
+|直播源|黑白名单|
+| ---- | ---- |
+|每日4点|每周五0点|
+
+## 直播源
+||完整|精简|其他|
+| ---- | ---- | ---- | ---- |
+|txt|[live.txt](https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.txt)|[live_lite.txt](https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live_lite.txt)|[other.txt](https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/others.txt)
+|m3u|[live.m3u](https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.m3u)|[live_lite.m3u](https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live_lite.m3u)||
+
+
 
 在线MD5文件哈希计算工具
 https://tool.hiofd.com/file-md5-online/
-
-![photo_2024-05-29_20-53-25](https://github.com/alantang1977/pg/assets/107459091/7520d9d9-e4ba-472a-8a73-21fd5ad693e5)
 
 ![IMG_0113](https://github.com/alantang1977/pg/assets/107459091/a69f166c-07c8-4159-b442-bcf93983938c)
 
